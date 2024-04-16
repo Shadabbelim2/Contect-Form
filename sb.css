@@ -1,0 +1,91 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px 30px;
+    font-size:17px ;
+    pedding: 8px;
+}
+#c{
+    text-align: center;
+    background-color:black;
+    color:ghostwhite;
+    font-style: italic;
+    border-radius: 4px;
+}
+nav{
+    word-spacing: 15px;
+    text-align: right;
+    background-color: gray;
+    border: 2px solid none;
+    color: wheat;
+    border-radius: 2px;
+    
+
+}
+#sha{
+    (clip-path: circle(50% at 50% 50%););
+}
+a#ab:hover,
+a#bc:hover,
+a#ca:hover,
+a#bs:hover{
+    color: brown;
+}
+a#ab:active,
+a#bc:active,
+a#ca:active,
+a#bs:active{
+    color:blue;
+}
+    
+input[type="text"],
+input[type="email"],
+input[type="submit"],
+input[type="text"],
+select,
+textarea{
+    width: 100%;
+    border-radius: 4px;
+    text-transform: uppercase;
+    margin: 2px;
+}
+.a{
+    text-align: center;
+    color: brown;
+    background-color: bisque;
+    font-style: italic;
+}
+#k{
+    color: aqua;
+    background-color: gray;
+border: none;
+}
+#o,#p{
+    text-transform: uppercase;
+}
+a[href]{
+    color: black;
+}
+#p,
+#o,
+#g,
+#h,
+#j{
+    background-color: black;
+    color:white;
+}
+address{
+float: right;
+clear: right;
+}
+
+#bv :hover{
+    color: brown;
+
+}
+#bv :active{
+    color: aqua;
+
+}
